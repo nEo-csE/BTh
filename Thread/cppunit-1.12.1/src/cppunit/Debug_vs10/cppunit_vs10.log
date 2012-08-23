@@ -1,0 +1,22 @@
+﻿Build started 2012/8/23 19:18:34.
+     1>Project "D:\projects\Thread\Thread\cppunit-1.12.1\src\cppunit\cppunit_vs10.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating ".\Debug_vs10\cppunit_vs10.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Lib:
+         All outputs are up-to-date.
+         cppunit_vs10.vcxproj -> D:\projects\Thread\Thread\cppunit-1.12.1\src\cppunit\.\Debug_vs10\cppunitd.lib
+       PostBuildEvent:
+         Description: Copying target to lib/
+         copy "D:\projects\Thread\Thread\cppunit-1.12.1\src\cppunit\.\Debug_vs10\cppunitd.lib" "..\..\lib\cppunitd.lib"
+         :VCEnd
+         已复制         1 个文件。
+       FinalizeBuildStatus:
+         Deleting file ".\Debug_vs10\cppunit_vs10.unsuccessfulbuild".
+         Touching ".\Debug_vs10\cppunit_vs10.lastbuildstate".
+     1>Done Building Project "D:\projects\Thread\Thread\cppunit-1.12.1\src\cppunit\cppunit_vs10.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.21
